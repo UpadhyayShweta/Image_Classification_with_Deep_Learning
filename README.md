@@ -5,8 +5,8 @@ In deep learning, a convolutional neural network (CNN) is a class of artificial 
 
 ## Data Files
 
-* [Training Data](https://github.com/UpadhyayShweta/Image_Classification_with_Deep_Learning/Data/IntelImageClassification_Dataset.zip)
-* [Prediction Data](https://github.com/UpadhyayShweta/Image_Classification_with_Deep_Learning/Data/PredictionData.zip)
+* [Training Data](https://github.com/UpadhyayShweta/Image_Classification_with_Deep_Learning/blob/main/Data/IntelImageClassification_Dataset.zip)
+* [Prediction Data](https://github.com/UpadhyayShweta/Image_Classification_with_Deep_Learning/blob/main/Data/PredictionData.zip)
   
 **Note:** For building this classification model dataset used is be Intel Image Classification dataset from Kaggle(https://www.kaggle.com/datasets/puneet6060/intel-image-classification?resource=download)
 
